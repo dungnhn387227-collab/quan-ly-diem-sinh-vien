@@ -154,8 +154,8 @@ st.divider()
 st.markdown(
     """
     <div style="text-align:center; color:gray; font-size:12px;">
-        Người thực hiện: THAY BẰNG HỌ TÊN CỦA BẠN<br>
-        MSSV: THAY BẰNG MÃ SỐ SINH VIÊN CỦA BẠN
+        Người thực hiện: Nguyễn Hoàng Ngọc Dung<br>
+        MSSV: 038308017227
     </div>
     """,
     unsafe_allow_html=True
